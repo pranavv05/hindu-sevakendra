@@ -75,7 +75,7 @@ export default function HomePage() {
           </h2>
           <p className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
             Hindu Seva Kendra bridges the gap between people in need of services and verified local vendors, fostering
-            community support and economic empowerment through our charitable trust initiative.
+            community support and economic empowerment through our thoughtful initiative.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button size="lg" className="bg-orange-600 hover:bg-orange-700" asChild>
