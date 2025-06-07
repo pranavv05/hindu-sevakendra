@@ -244,11 +244,11 @@ export default function HomePage() {
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
             <div className="flex items-center justify-center space-x-2">
               <Phone className="w-5 h-5 text-orange-600" />
-              <span className="text-lg font-semibold">+91-1800-HINDU-SEVA</span>
+              <span className="text-lg font-semibold">+91 6359220055</span>
             </div>
             <div className="flex items-center justify-center space-x-2">
               <Mail className="w-5 h-5 text-orange-600" />
-              <span className="text-lg">contact@hindusevakendra.org</span>
+              <span className="text-lg">helphskhelp@gmail.com</span>
             </div>
           </div>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -327,15 +327,15 @@ export default function HomePage() {
             <div>
               <h5 className="font-semibold mb-4">Contact</h5>
               <div className="space-y-2 text-gray-400">
-                <p>+91-1800-HINDU-SEVA</p>
-                <p>contact@hindusevakendra.org</p>
-                <p>Main Office, Delhi, India</p>
+                <p>+91 6359220055</p>
+                <p>helphskhelp@gmail.com</p>
+                <p>Ut Corporate Services Pvt Ltd Silvassa-396230</p>
               </div>
             </div>
           </div>
 
           <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-            <p>&copy; 2024 Hindu Seva Kendra. All rights reserved. | A Charitable Trust Initiative</p>
+            <p>&copy; 2024 Hindu Seva Kendra. All rights reserved. | A thoughtful Initiative</p>
           </div>
         </div>
       </footer>
