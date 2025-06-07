@@ -329,7 +329,7 @@ export default function HomePage() {
               <div className="space-y-2 text-gray-400">
                 <p>+91 6359220055</p>
                 <p>helphskhelp@gmail.com</p>
-                <p>Shop no. 5 V-Raj Darshan Complex Samarvani Silvassa-396230</p>
+                <p>Shop no. 5 V-Raj Darshan Complex Samarvani Silvassa- 396230 </p>
               </div>
             </div>
           </div>
